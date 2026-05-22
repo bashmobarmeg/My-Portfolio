@@ -63,7 +63,7 @@ document.getElementById("visit2").onclick = function () {
 
 // زر visit3
 document.getElementById("visit3").onclick = function () {
-    window.open("", "_blank");
+    window.open("https://bashmobarmeg.github.io/calculator/", "_blank");
 };
 
 
