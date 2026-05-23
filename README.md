@@ -34,10 +34,13 @@ The website is designed to be simple, responsive, and visually professional.
 ---
 
 ## 📊 GitHub Stats
-[<img 
-  src="https://gh-stats-alpha.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=radical"
-  height="170"
-/>](https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=radical&cache_seconds=1)
+<div>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
