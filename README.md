@@ -35,7 +35,7 @@ The website is designed to be simple, responsive, and visually professional.
 
 ## 📊 GitHub Stats
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=radical"
+  src="https://gh-stats-alpha.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=radical"
   height="170"
 />
 
