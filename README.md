@@ -5,7 +5,9 @@ A personal portfolio website showcasing my projects, skills, and personal inform
 ---
 
 ## 🚀 Live Demo
- [Visit Website](https://bashmobarmeg.github.io/My-Portfolio/)
+<a href="https://bashmobarmeg.github.io/My-Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀 Visit Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 ---
 
@@ -32,12 +34,12 @@ The website is designed to be simple, responsive, and visually professional.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ##  Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=bashmobarmeg&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=bashmobarmeg&style=flat-square&color=0e75b6&scale=1.5)
 
 ---
 
