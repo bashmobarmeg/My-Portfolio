@@ -39,10 +39,12 @@ The website is designed to be simple, responsive, and visually professional.
 ---
 
 ##  Profile Views
-<img 
-  src="https://komarev.com/ghpvc/?username=bashmobarmeg&style=flat-square&color=0e75b6"
-  height="60"
-/>
+<div style="font-size:20px;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=bashmobarmeg&style=flat-square&color=0e75b6"
+    height="40"
+  />
+</div>
 
 ---
 
