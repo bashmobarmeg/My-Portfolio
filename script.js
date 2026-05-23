@@ -58,7 +58,7 @@ document.getElementById("visit1").onclick = function () {
 
 // زر visit2
 document.getElementById("visit2").onclick = function () {
-    window.open("", "_blank");
+    window.open("https://bashmobarmeg.github.io/Link-Hub/", "_blank");
 };
 
 // زر visit3
