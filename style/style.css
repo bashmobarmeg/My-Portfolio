@@ -216,6 +216,10 @@ header {
     grid-template-rows: repeat(3, auto);
 }
 
+.p {
+        text-align: center;
+}
+
 h5 {
     margin: 10px;
     /* grid-column: 3/4; */
