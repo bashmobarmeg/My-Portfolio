@@ -70,8 +70,8 @@ document.getElementById("visit3").onclick = function () {
 
 
 
-// زر GitHup
-document.getElementById("GitHup").onclick = function () {
+// زر GitHub
+document.getElementById("GitHub").onclick = function () {
     window.open("https://github.com/bashmobarmeg", "_blank");
 };
 
