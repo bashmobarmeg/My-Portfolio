@@ -72,7 +72,7 @@ document.getElementById("visit3").onclick = function () {
 
 // زر GitHub
 document.getElementById("GitHub").onclick = function () {
-    window.open("https://github.com/Abo-Shaheen", "_blank");
+    window.open("https://github.com/Abo-Shaheen/Abo-Shaheen", "_blank");
 };
 
 document.querySelector(".top-btn").onclick = function () {
